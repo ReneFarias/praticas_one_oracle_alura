@@ -1,11 +1,11 @@
 body {
   @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
-  background: linear-gradient(236.85deg, green 27.26%, #3468a7 96.03%);
+  background: linear-gradient(236.85deg, #051933 27.26%, #3af 96.03%);
   font-family: "Roboto", sans-serif;
 }
 
 .container {
-  background: #6887a9;
+  background: #3af;
   color: black;
   margin: 64px;
   border-radius: 20px;
@@ -48,13 +48,13 @@ body {
   padding: 8px 16px;
   background: greenyellow;
   border-radius: 30px;
-  border: none;
+  
 }
 
 .projetos {
   display: flex;
   flex-direction: column;
-  background: linear-gradient(230.65deg, #fed449 27.49%, #9cc8fc 83.19%);
+  background: linear-gradient(230.65deg, #b3e374b8 27.49%, #9cc8fc 83.19%);
   margin-top: 32px;
   padding: 32px;
   box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
